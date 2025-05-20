@@ -12,8 +12,8 @@ const Footer = () => {
   ]
 
   const socialLinks = [
-    { name: 'GitHub', url: 'https://github.com/yourusername', icon: <FiGithub /> },
-    { name: 'LinkedIn', url: 'https://linkedin.com/in/yourprofile', icon: <FiLinkedin /> },
+    { name: 'GitHub', url: 'https://github.com/saiduzzamansaad', icon: <FiGithub /> },
+    { name: 'LinkedIn', url: 'www.linkedin.com/in/muhammod-saiduzzaman-saad-084837269', icon: <FiLinkedin /> },
     { name: 'Email', url: 'saiduzzama113gmail@gmail.com', icon: <FiMail /> }
   ]
 
